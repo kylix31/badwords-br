@@ -21,7 +21,7 @@
     "filter"
   ],
   "dependencies": {
-    "badwords-list-br": "^1.0.0"
+    "badwords-list": "^1.0.0"
   },
   "devDependencies": {
     "better-assert": "1.0.0",
