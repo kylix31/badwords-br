@@ -1,7 +1,7 @@
 {
-  "name": "bad-words",
+  "name": "bad-words-br",
   "version": "3.0.4",
-  "description": "A javascript filter for bad words",
+  "description": "A javascript filter for bad words in Brazilian Portuguese",
   "main": "./lib/badwords",
   "directories": {
     "test": "test"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/web-mech/badwords.git"
+    "url": "git://github.com/kylix31/badwords-br.git"
   },
   "keywords": [
     "curse",
@@ -21,7 +21,7 @@
     "filter"
   ],
   "dependencies": {
-    "badwords-list": "^1.0.0"
+    "badwords-list-br": "^1.0.0"
   },
   "devDependencies": {
     "better-assert": "1.0.0",
