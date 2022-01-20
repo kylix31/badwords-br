@@ -1,6 +1,6 @@
 {
   "name": "bad-words-br",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "A javascript filter for bad words in Brazilian Portuguese",
   "main": "./lib/badwords",
   "directories": {
